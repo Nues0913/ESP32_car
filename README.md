@@ -1,6 +1,7 @@
 # ESP32 Car
 
 大學專題 《[Mixed Reality Teleoperation Pipeline for Resource-Constrained Mini-car via ROS2 Server](https://drive.google.com/file/d/1X-1db4s7sK-hg7P2BRPSYf7viPQ1V05r/view)》
+
 ESP32-CAM 小車韌體，以 Wi-Fi／UDP 接收油門與轉向指令，透過 PCA9685 控制馬達驅動電路與舵機，並傳送 JPEG 影像。另有 BMI088 加速度與角速度串流(未使用)，可供外部定位或視覺慣性系統使用。
 
 
